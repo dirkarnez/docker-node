@@ -1,6 +1,6 @@
 FROM node:16
 
-COPY . /usr/src/app
+# COPY . /usr/src/app
 
 # Create app directory
 VOLUME /usr/src/app
