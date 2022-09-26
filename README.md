@@ -7,7 +7,7 @@ docker-node
       node ./src/index.js
       ```
 ### Use this as a git submodule
-1. add this as a git submodule in root directory of target project
+1. add this as a git submodule in root directory of target project (see [dirkarnez/moleculer-playground](https://github.com/dirkarnez/moleculer-playground))
 2. run `.\docker-node\local-run.cmd` in target project
 3. do everything normally, eg `npm init`
 
